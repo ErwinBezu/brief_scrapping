@@ -1,2 +1,8 @@
 .venv
 .ipynb_checkpoints/
+
+textes.txt
+victor-hugo-texts.txt
+victor-hugo-titles.txt
+
+scraping_histogames.ipynb
